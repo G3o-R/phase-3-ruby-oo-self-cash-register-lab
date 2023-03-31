@@ -57,3 +57,5 @@ type Integer to a Float and vice versa.
 from the total. You'll need to make an additional attribute accessor and keep
 track of that last transaction amount somehow. In what method of the class are
 you working with an individual item?
+
+https://github.com/G3o-R/phase-3-ruby-oo-self-cash-register-lab
